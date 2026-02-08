@@ -1,0 +1,5 @@
+{
+  "name": "EchoEdit - Transcribe & Clip",
+  "description": "An intelligent audio editor that uses AI transcription to let you edit audio by selecting text. Upload, transcribe, and extract clips instantly.",
+  "requestFramePermissions": []
+}
